@@ -2,7 +2,7 @@
 // DU AN NHOM - BAI THUC HANH SO 3
 // Mon hoc: Software Configuration Management
 // Truong: Dai hoc Duy Tan
-// Nhom: [Ten nhom]
+// Nhom: 3
 // ============================================================
 
 public class Main {
