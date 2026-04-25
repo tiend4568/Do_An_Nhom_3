@@ -36,11 +36,13 @@ Tong so sinh vien: 3
 ```
 
 ## Thanh vien nhom
-| STT | Ho ten | MSSV | Vai tro |
-|-----|--------|------|---------|
-| 1   | [Ten thanh vien 1] | [MSSV] | Nhom truong |
-| 2   | [Ten thanh vien 2] | [MSSV] | Thanh vien |
-| 3   | [Ten thanh vien 3] | [MSSV] | Thanh vien |
+| STT |         Ho ten           |   Vai tro   |
+|-----|--------------------------|-------------|
+| 1   | Dương Quang Tiến         | Nhom truong |
+| 2   | Huỳnh Minh Đức Mạnh      | Thanh vien  |
+| 3   | Đỗ Bùi Gia Huy           | Thanh vien  |
+| 4   | Phan Trường Giang        | Thanh vien  |
+| 5   | Trần Ngọc Huy            | Thanh vien  |
 
 ## Giang vien huong dan
 Nguyen Van Vi - nguyenvanvi11@dtu.edu.vn
