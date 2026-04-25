@@ -3,6 +3,7 @@
 // Mon hoc: Software Configuration Management
 // Truong: Dai hoc Duy Tan
 // Nhom: 3
+//Thanh Vien: Huynh Minh Duc Manh - MSSV: 30211156723
 // ============================================================
 
 public class Main {
