@@ -4,6 +4,7 @@
 // Truong: Dai hoc Duy Tan
 // Nhom: 3
 //Thanh Vien: Huynh Minh Duc Manh - MSSV: 30211156723
+//Thanh Vien: Phan Truong Giang - MSSV: 30211139411
 // ============================================================
 
 public class Main {
