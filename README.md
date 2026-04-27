@@ -2,7 +2,7 @@
 
 ## Mo ta
 He thong Quan ly Sinh vien don gian viet bang Java.  
-Du an duoc thuc hien trong khuon kho Bai thuc hanh so 3 mon **Software Configuration Management** tai Dai hoc Duy Tan.
+Du an duoc thuc hien trong khuon kho Bai thuc hanh so 3 tai *Dai hoc Duy Tan*.
 
 ## Cau truc du an
 ```
